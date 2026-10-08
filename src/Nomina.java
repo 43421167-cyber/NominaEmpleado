@@ -4,6 +4,7 @@ public class Nomina {
     private int horasTrabajadas;
     private double pagoPorHora;
 
+    //Creando el constructor
     public Nomina (String clave, String nombre, int horasTrabajadas, double pagoPorHora){
         this.clave = clave;
         this.nombre = nombre;
